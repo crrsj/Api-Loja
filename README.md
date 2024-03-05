@@ -1,0 +1,1 @@
+Api para Uma loja de eletrônicos com vários endpoints ,salvar cliente,salvar produto, vincular o cliente ao produto,buscar produto pelo nome buscar pelo id cliente e produto,documentada,com validações,feita com spring e postegres
